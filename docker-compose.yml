@@ -1,0 +1,19 @@
+version: "3"
+services:
+  memgraph:
+    image: "memgraph/memgraph-platform"
+    ports:
+      - "3000:3000"
+      - "7687:7687"
+    entrypoint: ["/usr/bin/supervisord"]
+  card_fraud:
+    build: .
+    volumes:
+      - .:/app
+    ports:
+      - "5000:5000"
+    environment:
+      MEMGRAPH_HOST: memgraph
+      MEMGRAPH_PORT: 7687
+    depends_on:
+      - memgraph
