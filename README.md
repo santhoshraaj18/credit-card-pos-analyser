@@ -1,5 +1,5 @@
 <h1 align="center">
- 🔍 Credit Card Fraud by santhosh
+ 🔍 Credit Card Fraud Detection by santhosh
 </h1>
   
   
