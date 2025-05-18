@@ -1,8 +1,5 @@
 # Credit Card Fraud Detection by Santhosh
 
-<p align="center">
-  <img src="insert_image_url_here" alt="Credit Card Fraud Detection Logo">
-</p>
 
 A web application designed for credit card fraud detection, with the backend implemented in Flask and the frontend utilizing JavaScript and D3.js. The application leverages Memgraph to analyze credit card transactions. The dataset is randomly generated each time the app is started.
 
