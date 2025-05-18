@@ -3,11 +3,6 @@
 
 A web application designed for credit card fraud detection, with the backend implemented in Flask and the frontend utilizing JavaScript and D3.js. The application leverages Memgraph to analyze credit card transactions. The dataset is randomly generated each time the app is started.
 
-## Project Sample
-
-Explore the project sample [here](https://drive.google.com/drive/folders/1bTGqhn7azC5N21mnWIEj0GMAYFthuKIa?usp=share_link).
-
-
 
 ## Prerequisites
 
