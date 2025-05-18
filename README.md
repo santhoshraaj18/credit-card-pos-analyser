@@ -7,9 +7,7 @@ A web application designed for credit card fraud detection, with the backend imp
 
 Explore the project sample [here](https://drive.google.com/drive/folders/1bTGqhn7azC5N21mnWIEj0GMAYFthuKIa?usp=share_link).
 
-## Data Model
 
-[Add information about the data model here.]
 
 ## Prerequisites
 
